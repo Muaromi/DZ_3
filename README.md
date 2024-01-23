@@ -1,7 +1,8 @@
 # **Резюме**
 ### _Медведев А.В_
 ## ФОТО 
-![№1](C:\Users\aleks\Desktop\Medved\Снимок.jpg)
+![Снимок](https://github.com/Muaromi/DZ_3/assets/156124325/80169425-374b-4ff1-8dcb-3432ab1f6c3b)
+
 
 
 
